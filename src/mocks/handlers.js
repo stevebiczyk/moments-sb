@@ -1,4 +1,4 @@
-import rest from "msw";
+import { rest } from "msw";
 
 const baseURL = "https://drf-api-sb.herokuapp.com/";
 
